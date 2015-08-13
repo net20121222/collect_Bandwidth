@@ -27,7 +27,7 @@ CRITICAL_ERROR_ACHEIVED_MAIL_SUBJECT="Fatal error occurred"
 #邮件服务器配置  
 MAIL_HOST="mail.exclouds.com"
 mail_user="miaolian"
-mail_pass="yiyunmiaolian"
+mail_pass="xxx"
 mail_postfix="exclouds.com"
 FROM="miaolian"+"<"+mail_user+"@"+mail_postfix+">"
 MAIL_TO=["miaolian@exclouds.com"]  
